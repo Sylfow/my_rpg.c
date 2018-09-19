@@ -1,6 +1,6 @@
 # my_rpg.c
 
-Epitech my_rpg project, a sandbox project.
+Epitech my_rpg project with CSFML graphic library, a sandbox project.
 We call that "My hunter 3: Rainbow duck is unstoppable", the Story of Inspector Magret, a duck who investigate about his father death.
 
 ### USAGE
