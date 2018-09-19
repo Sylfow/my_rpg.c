@@ -1,0 +1,180 @@
+dialog_tp
+top="0"
+Change zone ?       A - Yes  \  Z - No
+top="0"
+
+dialog1
+top="100"
+Bon sang, ou est passee ma canne ?!...
+top="100"
+Ah, la voila. Ma fidele arme !
+top="100"
+Bien, je suis pret a sortir de Ducktown.
+top="100"
+Rien ne devrait me poser de probleme
+top="100"
+avec ma bonne vieille canne a mes cotes.
+top="100"
+En route vers l'aventure !
+top="100"
+Je finirai par te trouver, assassin !
+top="100"
+
+dialog2
+top="100"
+Mince, les gardes surveillent la grande porte !
+top="100"
+Je vais devoir aller leur parler pour sortir.
+top="100"
+
+dialog3
+top="300"
+Tiens, bonjour Commissaire Magret.
+top="300"
+Qu'est-ce qui vous amene ici ?
+top="100"
+Il faut que je sorte de Ducktown.
+top="100"
+Mes recherches n'avanceront jamais si je reste ici.
+top="300"
+Desole, mais je ne peux pas vous laisser sortir,
+top="300"
+c'est trop dangereux.
+top="100"
+Vous plaisantez...
+top="100"
+(Eh bien, je vais devoir utiliser mon teleporteur...
+top="100"
+J'espere qu'il n'est pas instable.
+top="100"
+J'ai du le laisser chez moi, derriere mon armoire.)
+top="100"
+
+dialog4
+top="100"
+Bon, j'y suis !
+top="100"
+Esperons qu'il fonctionne.
+top="100"
+Je ferais mieux d'etre prudent dehors,
+top="100"
+les chiens rodent dans tout le pays
+top="100"
+depuis que la chaleur
+top="100"
+a transforme leur territoire en desert !
+top="100"
+
+dialog5
+top="100"
+Fioouu, ca a marche !
+top="100"
+J'ai atterri un peu plus a l'est du village.
+top="100"
+Allez, il est temps de commencer mes recherches.
+top="100"
+Bon sang, ou se trouve le village des chiens ?
+top="100"
+C'est ma meilleure piste,
+top="100"
+mais je ne sais pas comment m'y rendre...
+top="100"
+Tout ce que je sais,
+top="100"
+c'est qu'il se trouve supposement au sud-est...
+top="100"
+
+dialog6
+top="100"
+Ca y est, je suis arrive a leur village.
+top="100"
+Je ferais mieux d'etre prudent,
+top="100"
+je dois trouver leur chef.
+top="100"
+J'ai entendu dire qu'il portait
+top="100"
+un monocle pour controler son pouvoir.
+top="100"
+
+dialog7
+top="200"
+Haha, alors comme ca tu veux me defier ?
+top="200"
+Et pourquoi donc ?
+top="100"
+Je dois retrouver l'assassin de mon pere,
+top="100"
+et ma seule piste, c'est votre village !
+top="100"
+Soit vous etes l'assassin,
+top="100"
+soit vous avez des informations !
+top="200"
+J'aime ta facon de penser, jeune caneton !
+top="200"
+Mais si tu veux des reponses,
+top="200"
+il va falloir me passer sur le corps!
+top="100"
+En garde, matin !
+top="100"
+
+dialog8
+top="200"
+Bien joue gamin,
+top="200"
+mais tu n'as toujours pas venge ton pere !
+top="200"
+Je ne suis pas celui qui l'a tue.
+top="100"
+Mais alors qui est-ce ?
+top="200"
+Il est tout pres de toi,
+top="200"
+la personne en qui tu avais le plus confiance.
+top="200"
+C'est lui l'assassin, ...
+top="200"
+c'est le JOUEUR !...
+top="100"
+
+quest1
+top="100"
+Je dois sortir du village !
+top="100"
+
+quest2
+top="100"
+Je dois aller parler aux gardes !
+top="100"
+
+quest3
+top="100"
+Il faut que je prenne le teleporteur
+top="100"
+qui se trouve chez moi,
+top="100"
+derriere mon armoire !
+top="100"
+
+quest4
+top="100"
+Je dois me rendre au village des chiens,
+top="100"
+il est au sud-est de mon village !
+top="100"
+
+quest5
+top="100"
+Allons trouver le chef des chiens,
+top="100"
+il porte un monocle !
+top="100"
+
+quest6
+top="100"
+To be continued !...
+top="100"
+
+quest7

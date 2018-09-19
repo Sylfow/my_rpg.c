@@ -1,0 +1,67 @@
+//path - x - y - top - left - width - height
+//path - x - y - id - size.x - size.y
+-0=Main_menu
++objs
+4
+utils/img/BlueSky1.png 0 0 0 0 1000 600
+utils/img/rainbow1.png 0 0 0 0 0 600
+utils/img/Mountains1.png 0 0 0 0 1000 600
+utils/img/Titre1.png 230 0 0 0 553 300
++buttons
+4
+utils/img/button.png 380 320 0 250 50
+utils/img/button.png 380 390 0 250 50
+utils/img/button.png 380 460 0 250 50
+utils/img/button.png 380 530 0 250 50
+-1=New_Game
++objs
+2
+utils/img/generique.png 100 225 0 0 800 150
+utils/img/sky_bg.jpg 0 0 0 0 1000 600
++buttons
+0
+-2=Mini_Hunter
++objs
+2
+utils/img/sky_bg.jpg 0 0 0 0 1000 600
+utils/img/spritesheet.png 0 190 0 0 110 110
++buttons
+0
+-3=Histoire
++objs
+3
+utils/img/Book1.png 0 0 0 0 1000 600
+utils/img/sky_bg.jpg 0 0 0 0 1000 600
+utils/img/his_txt.png 100 602 0 0 800 1000
++buttons
+0
+-4=Fight_main_screen
++objs
+1
+utils/img/background_fight.png 0 0 0 0 1000 600
++buttons
+2
+utils/img/Bouton_game.png 100 450 0 200 50
+utils/img/Bouton_game.png 700 450 1 200 50
+-5=Fight_screen
++objs
+1
+utils/img/background_fight.png 0 0 0 0 1000 600
++buttons
+4
+utils/img/Bouton_game.png 100 450 0 200 50
+utils/img/Bouton_game.png 302 450 1 200 50
+utils/img/Bouton_game.png 504 450 2 200 50
+utils/img/Bouton_game.png 706 450 3 200 50
+-6=How_to_play
++objs
+1
+utils/img/how_to_play_white.jpg 0 0 0 0 1000 600
++buttons
+0
+-7=To_be_continued
++objs
+1
+utils/img/to_be_continued.png 0 0 0 0 1000 600
++buttons
+0
