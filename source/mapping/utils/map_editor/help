@@ -1,0 +1,5 @@
+USAGE
+	./map_editor name_map status
+
+status -> 0 : create_map
+       	  1 : edit_map
